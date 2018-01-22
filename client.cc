@@ -18,7 +18,7 @@ main(int argc, char **argv)
     // setup default arguments
     int option;
     //Team Member 2: create an integer variable named port, assign it a value
-    //int port = SOME VALUE YOU FILL IN;
+    int port = 4307;
     string host = "localhost";
 
     // process command line options using getopt()
